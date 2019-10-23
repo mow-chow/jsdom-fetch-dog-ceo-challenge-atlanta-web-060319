@@ -16,6 +16,7 @@ Add JavaScript so that:
 - add image elements to the DOM **for each**🤔 image in the array
 
 ---
+colorbrackets 
 
 ## Challenge 2
 
